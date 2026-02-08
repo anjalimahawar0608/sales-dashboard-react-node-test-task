@@ -35,7 +35,7 @@ const SalesByProducts: React.FC<SalesByProductsProps> = ({ data }) => {
             sx={{
                 p: 3,
                 height: 430,
-                borderRadius: "12px",
+                borderRadius: "5px",
                 backgroundColor: theme.palette.background.paper,
                 maxWidth: "100%",
                 overflow: "hidden"

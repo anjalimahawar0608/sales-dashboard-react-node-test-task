@@ -14,7 +14,7 @@ const SalesByCategory: React.FC<SalesByCategoryProps> = ({ data }) => {
         p: 3,
         height: 380,
         backgroundColor: theme?.palette?.background?.paper,
-        borderRadius: "12px"
+        borderRadius: "5px"
       }}
     >
       <Typography

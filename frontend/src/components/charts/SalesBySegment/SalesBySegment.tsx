@@ -17,7 +17,7 @@ const SalesBySegment: React.FC<Props> = ({ data }) => {
         p: 3,
         height: 380,
         background: theme.palette.background.paper,
-        borderRadius: "12px"
+        borderRadius: "5px"
       }}
     >
       <Typography color={theme.palette.text.primary} mb={2} fontWeight={600}>

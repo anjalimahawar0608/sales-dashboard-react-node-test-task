@@ -16,7 +16,7 @@ const SalesByCity: React.FC<SalesByCityProps> = ({ data }) => {
           p: 3,
           height: 430,
           backgroundColor: theme.palette.background.paper,
-          borderRadius: "12px"
+          borderRadius: "2px"
         }}
       >
         <Typography color={theme.palette.text.primary}>

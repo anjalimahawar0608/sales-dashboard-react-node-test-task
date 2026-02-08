@@ -15,7 +15,7 @@ const SalesBySubCategory: React.FC<SalesBySubCategoryProps> = ({ data }) => {
           p: 3,
           height: 380,
           backgroundColor: theme.palette.background.paper,
-          borderRadius: "12px"
+          borderRadius: "2px"
         }}
       >
         <Typography color={theme.palette.text.primary}>
