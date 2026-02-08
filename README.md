@@ -38,6 +38,10 @@ This application visualizes sales data from a provided `sales.json` file and all
 - Backend fully implemented using TypeScript  
 
 ---
+## Code Comments & Documentation
+
+Extensive inline comments have been added across components, hooks, and services to clearly explain logic, data flow, and implementation decisions for better understanding and maintainability.
+
 
 ## 🛠 Tech Stack
 
