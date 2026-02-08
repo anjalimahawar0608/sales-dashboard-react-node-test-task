@@ -19,7 +19,7 @@ This application visualizes sales data from a provided `sales.json` file and all
 
 ### 🎯 UI – Bonus Tasks (Completed)
 
-- Charts and KPI cards dynamically populated from API  
+- Charts and  cards dynamically populated from API  
 - Expand and collapse functionality for sidebar navigation  
 - Light and Dark theme switching  
 - responsive layout for desktop and tablet  
