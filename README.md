@@ -53,7 +53,9 @@ This application visualizes sales data from a provided `sales.json` file and all
 - Express  
 - TypeScript  
 
----
+---## Demo Video
+
+Working demo: [Watch Here](https://www.awesomescreenshot.com/video/49218724?key=4f9ec2ab00af94f8977c0d39d4f8e4a3)
 
 ## 🔧 Environment Setup
 
@@ -76,8 +78,4 @@ cd frontend
 npm install
 npm start
 
-
-## Demo Video
-
-````Working demo: [Watch Here](https://www.awesomescreenshot.com/video/49218724?key=4f9ec2ab00af94f8977c0d39d4f8e4a3)
 
